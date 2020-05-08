@@ -8,7 +8,7 @@ import HomePanel from "./homePanel";
 const useStyles = makeStyles((theme) => ({
   container: {
     backgroundColor: "black",
-    padding: "15vh 10vw",
+    padding: "15vh 5vw 15vh 5vw",
     backgroundImage: `url(${background})`,
     backgroundRepeat: "no-repeat",
     backgroundAttachment: "fixed",
