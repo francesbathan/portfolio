@@ -6,6 +6,7 @@ const useStyles = makeStyles((theme) => ({
     fontSize: "8pt",
     color: "gray",
     marginTop: "2vh",
+    textAlign: "center",
   },
   content: {
     marginTop: "0vh",

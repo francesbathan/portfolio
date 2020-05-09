@@ -21,7 +21,10 @@ const useStyles = makeStyles((theme) => ({
     fontWeight: "700",
     fontSize: "20pt",
     letterSpacing: "0.3em",
-    textAlign: "left",
+    textAlign: "center",
+  },
+  heading: {
+    width: "12vw",
   },
 }));
 
@@ -30,10 +33,12 @@ const Portfolio = () => {
 
   return (
     <>
-      <Typist>
-        <span className={classes.hello}>WHAT I'VE WORKED ON</span>
-      </Typist>
       <div className={classes.container}>
+        <Typist>
+          <div className={classes.heading}>
+            <span className={classes.hello}>WHAT I'VE WORKED ON</span>
+          </div>
+        </Typist>
         <div className={classes.panel}>
           <PuppyLove />
           <Button />

@@ -41,23 +41,7 @@ const Greeting = () => {
       <p className={classes.work}>
         I work with{" "}
         <Typist className={classes.languages}>
-          <span> React.</span>
-          <Typist.Backspace count={20} delay={200} />
-          <span> Python.</span>
-          <Typist.Backspace count={20} delay={200} />
-          <span> Node.js.</span>
-          <Typist.Backspace count={20} delay={200} />
-          <span> Express.js.</span>
-          <Typist.Backspace count={20} delay={200} />
-          <span> MongoDB.</span>
-          <Typist.Backspace count={20} delay={200} />
-          <span> MySQL.</span>
-          <Typist.Backspace count={20} delay={200} />
-          <span> SQLite.</span>
-          <Typist.Backspace count={20} delay={200} />
-          <span> Django.</span>
-          <Typist.Backspace count={20} delay={200} />
-          <span> Material-UI.</span>
+          <span> JavaScript.</span>
           <Typist.Backspace count={20} delay={200} />
           <span> React.</span>
           <Typist.Backspace count={20} delay={200} />
@@ -76,6 +60,28 @@ const Greeting = () => {
           <span> Django.</span>
           <Typist.Backspace count={20} delay={200} />
           <span> Material-UI.</span>
+          <Typist.Backspace count={20} delay={200} />
+          <span> JavaScript.</span>
+          <Typist.Backspace count={20} delay={200} />
+          <span> React.</span>
+          <Typist.Backspace count={20} delay={200} />
+          <span> Python.</span>
+          <Typist.Backspace count={20} delay={200} />
+          <span> Node.js.</span>
+          <Typist.Backspace count={20} delay={200} />
+          <span> Express.js.</span>
+          <Typist.Backspace count={20} delay={200} />
+          <span> MongoDB.</span>
+          <Typist.Backspace count={20} delay={200} />
+          <span> MySQL.</span>
+          <Typist.Backspace count={20} delay={200} />
+          <span> SQLite.</span>
+          <Typist.Backspace count={20} delay={200} />
+          <span> Django.</span>
+          <Typist.Backspace count={20} delay={200} />
+          <span> Material-UI.</span>
+          <Typist.Backspace count={20} delay={200} />
+          <span> JavaScript.</span>
           <Typist.Backspace count={20} delay={200} />
           <span> React.</span>
           <Typist.Backspace count={20} delay={200} />
