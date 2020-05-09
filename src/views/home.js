@@ -9,6 +9,7 @@ const useStyles = makeStyles((theme) => ({
   container: {
     backgroundColor: "black",
     padding: "15vh 5vw 15vh 5vw",
+    backgroundSize: "100%",
     backgroundImage: `url(${background})`,
     backgroundRepeat: "no-repeat",
     backgroundAttachment: "fixed",
